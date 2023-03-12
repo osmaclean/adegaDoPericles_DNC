@@ -65,7 +65,7 @@ div#container div#container2nd {
     align-items: center;
 }
 
-div#container div#container2nd form#box button {
+div#container div#container2nd button {
     height: 40px;
     width: 80px;
     background-color: transparent;
@@ -77,7 +77,7 @@ div#container div#container2nd form#box button {
 
 }
 
-div#container div#container2nd form#box button:hover {
+div#container div#container2nd button:hover {
     color: #CA7900;
     border: 2px solid #CA7900;
     background-color: #f5f5f5;

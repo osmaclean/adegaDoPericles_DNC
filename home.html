@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Adega Péricles</title>
     <link rel="stylesheet" href="style/home.css">
+    <link rel="shortcut icon" href="img/beer-keg.png" type="image/x-icon">
 </head>
 
 <body>
@@ -20,12 +21,9 @@
     <div id="container">
         <h2>Você é maior de 18 anos?</h2>
         <div id="container2nd">
-            <form action="./pages/maiorIdade.html" id="box">
-                <button>Sim</button>
-            </form>
-            <form action="menorIdade.html" id="box">
-                <button>Não</button>
-            </form>
+            <button onclick="renderUp()">Sim</button>
+            <button onclick="renderDown()">Não</button>
+
         </div>
     </div>
 
