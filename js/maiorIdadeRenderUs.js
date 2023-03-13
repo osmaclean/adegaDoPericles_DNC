@@ -20,7 +20,7 @@ function checkTheAge() {
         if (!liMaiorDe18[i].style) return true;
 
         if (maiorDeDezoito) {
-            liMaiorDe18[i].style.display = 'block';
+            liMaiorDe18[i].style.display = 'flex';
         } else {
             liMaiorDe18[i].style.display = 'none';
         }
