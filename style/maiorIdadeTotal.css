@@ -77,10 +77,11 @@ img#beers {
     width: 70px;
     height: 70px;
     position: relative;
-    top: 25px;
+    top: 75px;
 }
 
 section#container {
+    margin-top: 50px;
     background-color: #CA7900;
     border-radius: 5px;
     padding: 20px;
@@ -91,9 +92,9 @@ section#container {
     width: 90%;
 }
 
-section#container h1 {
+section#container p.valorTotal {
     color: aliceblue;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     width: 100%;
     text-align: center;
 }
