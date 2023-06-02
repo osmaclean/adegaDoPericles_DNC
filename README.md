@@ -14,7 +14,6 @@ Projeto criado para o desenvolvimento de uma aplicação fictícia sobre uma cer
 
 <hr>
 
-
 ### Interfaces
 Modo Desktop (3 Páginas) 💻
 
